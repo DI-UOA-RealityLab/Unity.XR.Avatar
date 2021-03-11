@@ -1,0 +1,24 @@
+{
+    "name": "di.uoa.realitylab.unity.xr.avatar",
+    "version": "0.0.1",
+    "displayName": "Unity XR Avatar",
+    "description": "A set of assets to help with user representation in XR.",
+    "unity": "2019.3",
+    "dependencies": {
+        "com.unity.xr.management": "4.0.0"
+   },
+   "keywords": [
+        "controller",
+        "hand",
+        "vr",
+        "ar",
+        "xr",
+        "unity"
+    ],
+    "license": "MIT",
+    "author": {
+      "name": "Christos Lougiakis",
+      "email": "chrislou@di.uoa.gr",
+      "url": "http://users.uoa.gr/~chrislou/"
+    }
+  }
