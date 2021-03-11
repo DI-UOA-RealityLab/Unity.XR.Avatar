@@ -1,7 +1,7 @@
 {
     "name": "di.uoa.realitylab.unity.xr.avatar",
     "version": "0.0.1",
-    "displayName": "Unity XR Avatar",
+    "displayName": "DI.UOA.RealityLab.Unity.XR.Avatar",
     "description": "A set of assets to help with user representation in XR.",
     "unity": "2019.3",
     "dependencies": {
@@ -17,8 +17,8 @@
     ],
     "license": "MIT",
     "author": {
-      "name": "Christos Lougiakis",
-      "email": "chrislou@di.uoa.gr",
-      "url": "http://users.uoa.gr/~chrislou/"
+      "name": "DI-UOA Reality Lab",
+      "email": "realitylab@di.uoa.gr",
+      "url": "http://www.realitylab.di.uoa.gr/"
     }
   }
